@@ -8,3 +8,4 @@
 - [Git and GitHub - a quick introduction](./slide/git_github.pdf)
 - [Python modules and packages](./slide/py_modules.pdf)
 - [Python data structures and collections](./slide/py_collections.pdf)
+- [Working with databases in Python](./slide/py_database.pdf)
