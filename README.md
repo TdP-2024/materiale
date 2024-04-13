@@ -9,3 +9,4 @@
 - [Python modules and packages](./slide/py_modules.pdf)
 - [Python data structures and collections](./slide/py_collections.pdf)
 - [Working with databases in Python](./slide/py_database.pdf)
+- [Recursion](./slide/py_recursion.pdf)
